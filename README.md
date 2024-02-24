@@ -5,6 +5,7 @@
 - read your image
 - try som preprocessing steps
 - then use pytesseract.image_to_string to read arabic words
+- store the output in dataframe
 **example for fake national id**
   ![fakeid1](https://github.com/shimaa83/arabic_ocr_pytesseract/assets/87786289/deac22d7-4110-4a48-96ec-cbd29a99a413)
 
